@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Pasta_Backup\UFBA\Introduçao a lógica de programação\Projeto-teste.dp
+Name=Projeto-teste
+MainUnit=C:\Pasta_Backup\UFBA\Introduçao a lógica de programação\Pascal-teste.pas
+UnitCount=1
+ResFiles=C:\Pasta_Backup\UFBA\Introduçao a lógica de programação\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Program Files (x86)\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Pasta_Backup\UFBA\Introduçao a lógica de programação\Pascal-teste.pas
+FileTime=1152497811
